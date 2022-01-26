@@ -1,5 +1,4 @@
-# ZigaRetter - The gamified cigarette bin to raise awareness and form actions on cigarette butt
-littering
+# ZigaRetter - The gamified cigarette bin to raise awareness and form actions on cigarette butt littering
 
 > Cigarette butt littering is very common. About two thirds of consumed cigarettes end up in the
 environment. Cigarette butts contain many hazardous or toxic substances that can harm humans,
