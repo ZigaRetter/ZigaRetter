@@ -16,7 +16,7 @@ linked.
 ### Instructions
 
 We have published a paper with a detailed project description and instructions under following link: 
-
+https://github.com/ZigaRetter/ZigaRetter/blob/main/ZigaRetter_Report_FinalSolution.pdf
 
 In the paper you can find in-depth information about the project, including motivation, design methodology, solution description, a list of needed materials and build instructions.
 
